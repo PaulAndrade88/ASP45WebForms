@@ -1,0 +1,77 @@
+********** 24/02/2017 10:24:40 a.m. **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 24/02/2017 10:39:48 a.m. **********
+Exception Type: System.Exception
+Exception: The error was unhandled by application code.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 24/02/2017 10:47:57 a.m. **********
+Inner Exception Type: System.InvalidOperationException
+Inner Exception: An InvalidOperationExceptionoccurred in the Page_Load handler on the Default.aspx page.
+Inner Source: Tuts
+Inner Stack Trace: 
+   at Tuts._Default.Page_Load(Object sender, EventArgs e) in c:\Users\paul.andrade\Documents\Visual Studio 2013\Projects\Tuts\Tuts\Default.aspx.cs:line 14
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+Exception Type: System.Web.HttpUnhandledException
+Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+Source: Application_Error20- Global.asax
+Stack Trace: 
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.default_aspx.ProcessRequest(HttpContext context) in c:\Users\paul.andrade\AppData\Local\Temp\Temporary ASP.NET Files\root\aaf02b96\bc1b6494\App_Web_baiagvlm.7.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+********** 24/02/2017 10:52:57 a.m. **********
+Exception Type: System.InvalidOperationException
+Exception: An InvalidOperationExceptionoccurred in the Page_Load handler on the Default.aspx page.
+Source: Page_Error - Default.aspx
+Stack Trace: 
+   at Tuts._Default.Page_Load(Object sender, EventArgs e) in c:\Users\paul.andrade\Documents\Visual Studio 2013\Projects\Tuts\Tuts\Default.aspx.cs:line 14
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+********** 24/02/2017 10:54:23 a.m. **********
+Exception Type: System.InvalidOperationException
+Exception: An InvalidOperationExceptionoccurred in the Page_Load handler on the Default.aspx page.
+Source: Page_Error - Default.aspx
+Stack Trace: 
+   at Tuts._Default.Page_Load(Object sender, EventArgs e) in c:\Users\paul.andrade\Documents\Visual Studio 2013\Projects\Tuts\Tuts\Default.aspx.cs:line 14
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+********** 24/02/2017 10:54:24 a.m. **********
+Exception Type: System.InvalidOperationException
+Exception: An InvalidOperationExceptionoccurred in the Page_Load handler on the Default.aspx page.
+Source: Page_Error - Default.aspx
+Stack Trace: 
+   at Tuts._Default.Page_Load(Object sender, EventArgs e) in c:\Users\paul.andrade\Documents\Visual Studio 2013\Projects\Tuts\Tuts\Default.aspx.cs:line 14
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+********** 24/02/2017 11:05:32 a.m. **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 24/02/2017 11:05:58 a.m. **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
